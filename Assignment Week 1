@@ -1,0 +1,27 @@
+Week 1 — Introduction to IoT and AI/ML Basics
+
+Q1. Introduction to IoT
+a) Define the term Internet of Things (IoT).
+b) Explain the architecture of IoT with a neat diagram.
+c) List and explain the major components of an IoT system.
+d) Mention at least five real-life applications of IoT with brief descriptions.
+
+
+Q2. Overview of AI & ML
+a) What is Artificial Intelligence (AI)? Why is it important today?
+b) What is Machine Learning (ML)? How is it related to AI?
+c) Explain how AI and ML systems work with the help of a suitable example.
+d) List three applications each of AI and ML in different fields.
+
+
+Q3. Explain with an example how a task solved through traditional programming differs from an AI/ML-based approach.
+
+
+Q4. Role of AI-ML in IoT-enabled Smart Systems
+a) Discuss the importance of integrating AI and ML with IoT systems.
+b) Explain with examples how AI and ML enhance IoT applications like smart homes, healthcare, industrial automation, or smart cities.
+c) List and explain three challenges faced while integrating AI/ML with IoT devices.
+
+
+Mini Project 1:
+Read sensor data and log it to the cloud (ThingSpeak)
