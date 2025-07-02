@@ -1,0 +1,16 @@
+- Architecture of IoT
+   - Cisco seven levelled diagram
+   - Oracle's IoT architecture
+- Introduction to Sensors and smart sensors
+- Introduction to Actuators
+- Robotic system
+   - Sensors in robotic system
+   - Actuators in robotic system
+   - Smart applications
+- Difference between Arduino, Raspberry pi and Node MCU
+- Sensors 
+   - Motion Detection (PIR)
+   - Humidity (DHT11/DHT22)
+   - Temperature (DHT11/DHT22)
+   - Light Detection (LDR)
+- Wokwi Simulator
