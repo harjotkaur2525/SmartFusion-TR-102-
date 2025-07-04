@@ -1,0 +1,17 @@
+Data preprocessing in Machine Learning
+ -  Data Collection
+       - Acquring data from 
+             - CSV files
+             - Online datasets(from koggle)
+ - Data Cleaning
+      - Techniques to handle incomplete, inaccurate and inconsistent data
+ - Handling Missing values
+      - By removing missing values
+      - Filling missing values using mean,median
+      - Detect missing values
+ - Scaling and Normalizatin
+
+Python Libraries used in preprocessing
+ - Pandas
+ - Numpy
+ - Scikit-Learn
