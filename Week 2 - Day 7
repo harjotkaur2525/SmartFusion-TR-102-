@@ -1,0 +1,20 @@
+Data Visualization
+ - Visulaize data using graphs
+     - Bar Graph
+     - Line Graph
+     - Histogram
+     - Scatter plot
+     - Box plot
+     - Heat map
+ - Libraries used
+     - Matplot lib
+        -plplot module
+     - Seaborn
+ - Tips dataset
+ - Real time data ploting
+     - libraries used
+        - matplot lib
+        - Random
+        - Time
+        
+   
